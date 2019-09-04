@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class EukleideenAlgoritmiJaLineaarikombinaatio {
 
-    public static int selvitaSuurempi(int luku1, int luku2){ //selvitetään kumpi luviista on suurempi, jotta suurimman yhteisin tekijän määrittäminen onnistuu.
+    public static int selvitaSuurempi(int luku1, int luku2){ //selvitetään kumpi luvuista on suurempi, jotta suurimman yhteisin tekijän määrittäminen onnistuu.
                                                              
         if(luku1 > luku2){
             return 1;
